@@ -86,15 +86,3 @@ SW 청소년 동행 프로젝트 멘토
     - [발표 자료](https://drive.google.com/file/d/1zUHhQXoGd1mv6AgYlErOln_6B5ytYJeT/view)  
     - [Colab 실습](https://colab.research.google.com/drive/1ByXEca8A_NRKSwGkgT_Hargvega3PcJS?usp=drive_link)  
   
-## 📖Certificate
-- ADsP
-- SQLD
-- TOPCIT Level 3
-
-<div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jineus/)](https://www.linkedin.com/in/jineus/)
-<a href="https://itcodeheaven.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eu2525)](https://solved.ac/eu2525)
-
-</div>
