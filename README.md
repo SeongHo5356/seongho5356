@@ -1,5 +1,5 @@
 ## 😊 About me
-- Hi, My name is Han Sangjin
+- Hi, My name is Jung Sung Ho
 - I am a student at Kyunghee University.
 
 ## 🎓 Career and Academic Experience
@@ -7,9 +7,7 @@
   
 | Company / School                          | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
-| POSCO DX IT Academy                       | Trainee                        | 2024-11 — now     |
-| Naver Cloud                               | Data Engineer Intern           | 2024-10 — 2024-11 |
-| Data Marketing Korea                      | Data Engineer Intern           | 2024-07 — 2024-08 |
+| AI.SW KHU-MOOC Micro Degree               | graduate                       | 2024-03 — 2024-08 |
 | KHU Software Convergence                  | Undergraduate                  | 2019-03 — now     |
 
 </div>
@@ -47,28 +45,46 @@
 
 
 ## 🎖️Awards
-- 2020년 경희대학교 소프트웨어페스티벌 주니어상
-- 2021년 경찰의날 경찰청장상
-- 2023년 가을프로그래밍경시대회 우수상
-- 2023년 경희대학교 해커톤(Khuthon) 최우수상
-- 2023년 경희대학교 소프트웨어페스티벌 대상, 인기상
-- 2024년 경희대학교 해커톤(Khuthon) 우수상
-- 2024년 KHUDA 5th Conference 대상, 특별상
+- 2021년 수송교육단장상 성적우수상
+- 2024년 소프트웨어융합학과 컨퍼런스 최우수상
+- 2024년 소프트웨어중심대학 연합 페스티벌 우수상
 
 ## 🎯Activities
-- 경희대학교 영상제작동아리 소융튜브(2019-2020)
-- SJSU SVSTIP 온라인 해외연수 프로그램 수료(2020.07-2020.08)
-- 의무경찰 1130기 전역(2020.10-2022.04)
-- 경희대학교 Data/AI 동아리 쿠다 활동(2023.01-2024.06)
-  - 3기 Computer Vision
-  - 4기 Data Engineering 트랙장 & 운영진(기획팀)
-  - 5기 Data Engineering
-- 네이버커넥트재단 <소프트웨어야 놀자> 대학생 멘토(2023.07-2023.08)
-- LG Aimers 3기 수료 및 오프라인 해커톤 진출(2023.07-2023.09)
-- 경희대학교 SW 멤버쉽(2023.09-2024.02)
-- 빅데이터 연합 동아리 BOAZ 활동(2024.01-2025.01)
-  - 22기 Data Engineering & 운영진(운영지원팀장)
-- 글쓰는 개발자 모임 글또 10기 (2024.10-2025.03)
+### 씨큐브코딩 파트타임 강사  
+- **2023.08 ~ 현재**  
+  - C/C++, Python 언어 및 알고리즘 강의 진행.  
+  - 청소년들에게 코딩 기본기와 문제 해결 능력을 지도.  
+
+### AWS Cloud Club 1st & 2nd Member  
+- **2023.03 ~ 2024.11**  
+  - AWS 공식 지원 커뮤니티 활동.  
+  - AWS 서비스들을 활용한 실습 및 hands-on 진행.  
+  - 인프라 설계를 주제로 한 연합 해커톤 참가.  
+
+### 구름톤 Univ KHU 3rd BE Member  
+- **2023.07 ~ 2024.11**  
+  - 구름과 카카오가 지원하는 연합 IT 동아리 활동.  
+  - 전국 대학교 단위 해커톤 참가, 백엔드 역할 담당.  
+
+### 구름톤 Univ KHU 4th Captain  
+- **2023.12 ~ 현재**  
+  - 구름과 카카오 지원 연합 동아리의 캡틴으로 활동.  
+  - 동아리원 모집 및 리더로서 프로젝트와 활동을 총괄.  
+
+### Google Developers Groups KHU 1st BE Member  
+- **2023.09 ~ 현재**  
+  - Google 공식 지원 IT 연합 커뮤니티 활동.  
+  - Go, GCP, DevOps 관련 hands-on 진행.  
+  - 전국 단위 해커톤 **Solution Challenge** 참가 예정.  
+
+### SW 청소년 동행 프로젝트 멘토  
+- **2023.08 ~ 2024.10**  
+  - 제주과학고등학교 2학년 학생 대상으로 Python 기초 문법 강의.  
+  - 데이터 분석 관련 matplotlib 등 활용 학습 및 회귀 분석 발표.  
+  - 실습 자료 및 발표 자료 제공:  
+    - [발표 영상](https://drive.google.com/file/d/1B8RVFC7X_XHu9fgZLb_vF9kCRDvIRk2M/view?usp=drive_link)  
+    - [발표 자료](https://drive.google.com/file/d/1zUHhQXoGd1mv6AgYlErOln_6B5ytYJeT/view)  
+    - [Colab 실습](https://colab.research.google.com/drive/1ByXEca8A_NRKSwGkgT_Hargvega3PcJS?usp=drive_link)  
   
 ## 📖Certificate
 - ADsP
