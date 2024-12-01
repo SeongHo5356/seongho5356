@@ -1,5 +1,5 @@
 ## 😊 About me
-- Hi, My name is Jung Sung Ho
+- Hi, My name is Jung SungHo
 - I am a student at Kyunghee University.
 
 ## 🎓 Career and Academic Experience
@@ -17,29 +17,33 @@
 
 <div style="display:flex; flex-direction:row;">
     <h3 align="left" style="margin-top: 10px"> Languages & Frameworks </h3>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <br>
     <h3 align="left" style="margin-top: 10px"> Database </h3>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <br>
-    <h3 align="left" style="margin-top: 10px"> Data </h3>
-    <img src="https://img.shields.io/badge/Apache%20Airflow-FF7300?style=for-the-badge&logo=apache-airflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img src="https://img.shields.io/badge/Prometheus-009639?style=for-the-badge&logo=prometheus&logoColor=white">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-    <img src="https://img.shields.io/badge/Fluent_bit-00B8B8?style=for-the-badge&logo=fluent-bit&logoColor=white">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <br>
     <h3 align="left" style="margin-top: 10px"> Infra </h3>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Prometheus-009639?style=for-the-badge&logo=prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+ <h3 align="left" style="margin-top: 10px"> Mobile </h3>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+   <h3 align="left" style="margin-top: 10px"> Hardware/Embedded </h3>
+   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 
 
