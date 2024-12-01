@@ -55,7 +55,7 @@
 
 ## 🎯Activities
 씨큐브코딩 파트타임 강사  
-- **2023.08 ~ 현재**  
+- **2023.08 ~ **  
   - C/C++, Python 언어 및 알고리즘 강의 진행.  
   - 청소년들에게 코딩 기본기와 문제 해결 능력을 지도.  
 
@@ -71,12 +71,12 @@ AWS Cloud Club 1st & 2nd Member
   - 전국 대학교 단위 해커톤 참가, 백엔드 역할 담당.  
 
 구름톤 Univ KHU 4th Captain  
-- **2023.12 ~ 현재**  
+- **2023.12 ~ **  
   - 구름과 카카오 지원 연합 동아리의 캡틴으로 활동.  
   - 동아리원 모집 및 리더로서 프로젝트와 활동을 총괄.  
 
 Google Developers Groups KHU 1st BE Member  
-- **2023.09 ~ 현재**  
+- **2023.09 ~ **  
   - Google 공식 지원 IT 연합 커뮤니티 활동.  
   - Go, GCP, DevOps 관련 hands-on 진행.  
   - 전국 단위 해커톤 **Solution Challenge** 참가 예정.  
