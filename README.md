@@ -7,7 +7,8 @@
   
 | Company / School                          | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
-| AI.SW KHU-MOOC Micro Degree               | graduate                       | 2024-03 — 2024-08 |
+| AI.SW KHU-MOOC Micro Degree - A.I         | graduate                       | 2024-03 — 2024-08 |
+| AI.SW KHU-MOOC Micro Degree - BigData     | graduate                       | 2024-03 — 2024-08 |
 | KHU Software Convergence                  | Undergraduate                  | 2019-03 — now     |
 
 </div>
