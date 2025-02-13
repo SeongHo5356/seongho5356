@@ -73,4 +73,3 @@ Google Developers Groups KHU 1st BE Member
 
 SW 청소년 동행 프로젝트 멘토  
 - **2023.08 ~ 2024.10**  
-  - 제주과학고등학교 2학년 학생 대상으로 Python 기초 문법 강의.  
