@@ -54,8 +54,8 @@
 
 ## 🎯Activities
 KUSITMS 31th BE Member
-- **2025.02 ~  **
-  
+- 2025.02 ~
+    
 씨큐브코딩 파트타임 강사  
 - **2023.08 ~  2025.02** 
 
@@ -66,7 +66,7 @@ AWS Cloud Club 1st & 2nd Member
 - **2023.07 ~ 2024.11**  
 
 구름톤 Univ KHU 4th 
-- **2025.02 ~ **  
+- 2025.02 ~  
 
 Google Developers Groups KHU 1st BE Member  
 - **2024.09 ~ 2025.06**  
