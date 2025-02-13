@@ -53,23 +53,16 @@
 - 2024년 소프트웨어중심대학 연합 페스티벌 우수상
 
 ## 🎯Activities
-KUSITMS 31th BE Member
-- 2025.02 ~
+KUSITMS 31th BE Member 
     
-씨큐브코딩 파트타임 강사  
-- **2023.08 ~  2025.02** 
+씨큐브코딩 파트타임 강사 
 
 AWS Cloud Club 1st & 2nd Member  
-- **2023.03 ~ 2024.11**  
 
 구름톤 Univ KHU 3rd BE Member  
-- **2023.07 ~ 2024.11**  
 
-구름톤 Univ KHU 4th 
-- 2025.02 ~  
+구름톤 Univ KHU 4th Captain
 
 Google Developers Groups KHU 1st BE Member  
-- **2024.09 ~ 2025.06**  
 
 SW 청소년 동행 프로젝트 멘토  
-- **2023.08 ~ 2024.10**  
