@@ -49,42 +49,28 @@
 
 
 ## 🎖️Awards
-- 
 - 2024년 소프트웨어융합학과 컨퍼런스 최우수상
 - 2024년 소프트웨어중심대학 연합 페스티벌 우수상
 
 ## 🎯Activities
+KUSITMS 31th BE Member
+- **2025.02 ~  **
+  
 씨큐브코딩 파트타임 강사  
-- 2023.08 ~   
-  - C/C++, Python 언어 및 알고리즘 강의 진행.  
-  - 청소년들에게 코딩 기본기와 문제 해결 능력을 지도.  
+- **2023.08 ~  2025.02** 
 
 AWS Cloud Club 1st & 2nd Member  
 - **2023.03 ~ 2024.11**  
-  - AWS 공식 지원 커뮤니티 활동.  
-  - AWS 서비스들을 활용한 실습 및 hands-on 진행.  
-  - 인프라 설계를 주제로 한 연합 해커톤 참가.  
 
 구름톤 Univ KHU 3rd BE Member  
 - **2023.07 ~ 2024.11**  
-  - 구름과 카카오가 지원하는 연합 IT 동아리 활동.  
-  - 전국 대학교 단위 해커톤 참가, 백엔드 역할 담당.  
 
-- **2023.12 ~ 2024.06**  
-  - 구름과 카카오 지원 연합 동아리의 캡틴으로 활동.  
-  - 동아리원 모집 및 리더로서 프로젝트와 활동을 총괄.  
+구름톤 Univ KHU 4th 
+- **2025.02 ~ **  
 
 Google Developers Groups KHU 1st BE Member  
 - **2024.09 ~ 2025.06**  
-  - Google 공식 지원 IT 연합 커뮤니티 활동.  
-  - Go, GCP, DevOps 관련 hands-on 진행.  
-  - 전국 단위 해커톤 **Solution Challenge** 참가 예정.  
 
 SW 청소년 동행 프로젝트 멘토  
 - **2023.08 ~ 2024.10**  
   - 제주과학고등학교 2학년 학생 대상으로 Python 기초 문법 강의.  
-  - 데이터 분석 관련 matplotlib 등 활용 학습 및 회귀 분석 발표.  
-  - 실습 자료 및 발표 자료 제공:  
-    - [발표 영상](https://drive.google.com/file/d/1B8RVFC7X_XHu9fgZLb_vF9kCRDvIRk2M/view?usp=drive_link)  
-    - [발표 자료](https://drive.google.com/file/d/1zUHhQXoGd1mv6AgYlErOln_6B5ytYJeT/view)  
-    - [Colab 실습](https://colab.research.google.com/drive/1ByXEca8A_NRKSwGkgT_Hargvega3PcJS?usp=drive_link)  
