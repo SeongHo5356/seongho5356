@@ -55,7 +55,7 @@
 ## 🎯Activities
 KUSITMS 31th BE Member 
     
-씨큐브코딩 파트타임 강사 
+씨큐브코딩 알고리즘 파트타임 강사 
 
 AWS Cloud Club 1st & 2nd Member  
 
