@@ -61,8 +61,6 @@ AWS Cloud Club 1st & 2nd Member
 
 구름톤 Univ KHU 3rd BE Member  
 
-구름톤 Univ KHU 4th Captain
-
 Google Developers Groups KHU 1st BE Member  
 
 SW 청소년 동행 프로젝트 멘토  
