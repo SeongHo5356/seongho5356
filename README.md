@@ -54,12 +54,12 @@
 - 2025년 경희대학교 연합해커톤 대상
 
 ## 🎯Activities
-- **KUSITMS** Korean University Students IT, Management Society, WebTF BE Lead | 02/2025~06/2025
-- **KUSITMS** Korean University Students IT, Management Society, 31th BE Member | 02/2025~06/2025
-- **GDG** Google Developers Group in Kyung Hee University, 1st BE Member | 09/2024~06/2025
-- **9ooroomton Univ** in Kyung Hee University, 4th Core Member | 03/2025~11/2025
-- **9ooroomton Univ** in Kyung Hee University, 3rd Backend Member | 07/2024~11/2024
-- **SW Mentor** in Jeju Science High School | 07/2024~10/2024
-- **C3Coding** C/C++/Python Algorithm Teaching Part-time job | 04/2024~12/2024
-- **ACC** AWS Cloud Club in Kyung Hee University, 2nd Member | 02/2024~11/2024
-- **ACC** AWS Cloud Club in Kyung Hee University, 1st Member | 02/2023~11/2023 
+- **KUSITMS,** Korean University Students IT, Management Society, WebTF BE Lead | 02/2025~06/2025
+- **KUSITMS,** Korean University Students IT, Management Society, 31th BE Member | 02/2025~06/2025
+- **GDG,** Google Developers Group in Kyung Hee University, 1st BE Member | 09/2024~06/2025
+- **9ooroomton Univ,** in Kyung Hee University, 4th Core Member | 03/2025~11/2025
+- **9ooroomton Univ,** in Kyung Hee University, 3rd Backend Member | 07/2024~11/2024
+- **SW Mentor,** in Jeju Science High School | 07/2024~10/2024
+- **C3Coding,** C/C++/Python Algorithm Teaching Part-time job | 04/2024~12/2024
+- **ACC,** AWS Cloud Club in Kyung Hee University, 2nd Member | 02/2024~11/2024
+- **ACC,** AWS Cloud Club in Kyung Hee University, 1st Member | 02/2023~11/2023 
