@@ -54,18 +54,12 @@
 - 2025년 경희대학교 연합해커톤 대상
 
 ## 🎯Activities
-KUSITMS WebTF BE 
-
-KUSITMS 31th BE Member 
-
-씨큐브코딩 알고리즘 파트타임 강사 
-
-AWS Cloud Club 1st & 2nd Member  
-
-구름톤 Univ KHU 3rd BE Member  
-
-구름톤 Univ KHU 4th Core Member  
-
-Google Developers Groups KHU 1st BE Member  
-
-SW 청소년 동행 프로젝트 멘토  
+- **KUSITMS** Korean University Students IT, Management Society, WebTF BE Lead | 02/2025~06/2025
+- **KUSITMS** Korean University Students IT, Management Society, 31th BE Member | 02/2025~06/2025
+- **GDG** Google Developers Group in Kyung Hee University, 1st BE Member | 09/2024~06/2025
+- **9ooroomton Univ** in Kyung Hee University, 4th Core Member | 03/2025~11/2025
+- **9ooroomton Univ** in Kyung Hee University, 3rd Backend Member | 07/2024~11/2024
+- **SW Mentor** in Jeju Science High School | 07/2024~10/2024
+- **C3Coding** C/C++/Python Algorithm Teaching Part-time job | 04/2024~12/2024
+- **ACC** AWS Cloud Club in Kyung Hee University, 2nd Member | 02/2024~11/2024
+- **ACC** AWS Cloud Club in Kyung Hee University, 1st Member | 02/2023~11/2023 
