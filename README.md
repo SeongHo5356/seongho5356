@@ -1,5 +1,5 @@
 ## 😊 About me
-- Hi, My name is Jung SungHo
+- Hi, My name is Jung Sung Ho
 - I am a student at Kyunghee University.
 
 ## 🎓 Career and Academic Experience
