@@ -1,7 +1,7 @@
 ## 😊 About me
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjeng7897)](https://solved.ac/kjeng7897)
 - Hi, My name is Jung Sung Ho
 - I am a student at Kyunghee University.
-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ## 🎓 Career and Academic Experience
 <div align="center">
