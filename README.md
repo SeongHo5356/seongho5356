@@ -9,7 +9,7 @@
 | ----------------------------------------- | ------------------------------ | ----------------- |
 | AI.SW KHU-MOOC Micro Degree - A.I         | graduate                       | 2024-03 — 2024-08 |
 | AI.SW KHU-MOOC Micro Degree - BigData     | graduate                       | 2024-03 — 2024-08 |
-| KHU Software Convergence                  | Undergraduate                  | 2019-03 — now     |
+| KHU Software Convergence                  | graduate                       | 2019-03 —         |
 
 </div>
 
@@ -47,18 +47,18 @@
 </div>
 
 
-
 ## 🎖️Awards
-- 2024년 소프트웨어융합학과 컨퍼런스 최우수상
-- 2024년 소프트웨어중심대학 연합 페스티벌 우수상
-- 2025년 경희대학교 연합해커톤 대상
-- 2025년 주식회사 직행 기업 프로젝트 최우수상
-- 2025년 구름톤 유니브 연합 해커톤 시즌톤 최우수상
-- 2025년 한이음 프로젝트 장려상
 - 2025년 한국대학생IT경영학회 밋업데이 최우수상
-
+- 2025년 한이음 프로젝트 장려상
+- 2025년 구름톤 유니브 연합 해커톤 시즌톤 최우수상
+- 2025년 주식회사 직행 기업 프로젝트 최우수상
+- 2025년 경희대학교 연합해커톤 대상
+- 2024년 소프트웨어중심대학 연합 페스티벌 우수상
+- 2024년 소프트웨어융합학과 컨퍼런스 최우수상
+  
 
 ## 🎯Activities
+- **SSAFY** SAMSUNG SW·AI Academy For Youth, 15th trainee | 01/2026~12/2026
 - **Cloud Club,** Vendor Neutral Cloud Communitiy, 15th Member | 07/2025~12/2025
 - **KUSITMS,** Korean University Students IT, Management Society, WebTF BE Lead | 02/2025~12/2025
 - **KUSITMS,** Korean University Students IT, Management Society, 31th, 32nd BE Member | 02/2025~12/2025
